@@ -1,0 +1,81 @@
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AdminLogin.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\College\Work\Assistant Professor\2020-2021\Fall2020\Database\Material\Labs\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AdminLogin.resources
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\RofaydaBassem\Downloads\Lab5 Accessing DB from C# - Part2-20241124T215539Z-001\Lab5 Accessing DB from C# - Part2\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\TA Cairo Uni\Data Base Course\Lab Exams Preparation\Lab Exam V1\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Products.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ShowOrder.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Spendings.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Monday 8-11-20241209T061324Z-001\Monday 8-11\Lab Exam V1_Student\Lab Exam V1_Student\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Owner_Welcome.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.CreateCompany.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Owner_Companies.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Manager_Management.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Branch_Management.resources
+D:\Faculty of Engineering\5-Senior-2\Fall 2024\Database\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Court_Management.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Branch_Management.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Court_Management.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.CreateCompany.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Manager_Management.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Owner_Companies.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Owner_Welcome.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\youse\Desktop\Project\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
