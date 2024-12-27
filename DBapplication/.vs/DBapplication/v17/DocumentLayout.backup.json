@@ -1,66 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\",
+  "WorkspaceRootPath": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\desktop\\project\\code\\dbapplication\\dbapplication\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\source\\repos\\paddlers\\dbapplication\\dbapplication\\competition_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\competition_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\source\\repos\\paddlers\\dbapplication\\dbapplication\\competition_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\competition_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\source\\repos\\paddlers\\dbapplication\\dbapplication\\client_welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\client_welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\source\\repos\\paddlers\\dbapplication\\dbapplication\\reservation_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\reservation_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\source\\repos\\paddlers\\dbapplication\\dbapplication\\reservation_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\reservation_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\source\\repos\\paddlers\\dbapplication\\dbapplication\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\owner_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\owner_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\owner_welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\owner_welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\owner_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\owner_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\manager_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\manager_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\owner_welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\owner_welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|c:\\users\\youse\\source\\repos\\paddlers\\dbapplication\\dbapplication\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\court_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\court_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\court_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\court_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\branch_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\branch_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\createcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\dbapplication\\branch_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC8232D5-B804-4766-8840-C88C50EAD01E}|DBapplication\\DBapplication.csproj|solutionrelative:dbapplication\\branch_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,182 +37,96 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 154,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Controller.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Controller.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Controller.cs",
-              "RelativeToolTip": "DBapplication\\Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Reservation_Client.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Reservation_Client.cs",
+              "RelativeDocumentMoniker": "DBapplication\\Reservation_Client.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Reservation_Client.cs",
+              "RelativeToolTip": "DBapplication\\Reservation_Client.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:38:25.881Z",
+              "WhenOpened": "2024-12-27T23:11:25.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Owner_Companies.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Companies.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Owner_Companies.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Companies.cs",
-              "RelativeToolTip": "DBapplication\\Owner_Companies.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:07:24.964Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Manager_Management.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Manager_Management.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Manager_Management.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Manager_Management.cs [Design]",
-              "RelativeToolTip": "DBapplication\\Manager_Management.cs [Design]",
+              "Title": "Reservation_Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Reservation_Client.cs",
+              "RelativeDocumentMoniker": "DBapplication\\Reservation_Client.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Reservation_Client.cs [Design]",
+              "RelativeToolTip": "DBapplication\\Reservation_Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:37:54.713Z"
+              "WhenOpened": "2024-12-27T23:11:14.227Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Owner_Companies.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Companies.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Owner_Companies.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Companies.cs [Design]",
-              "RelativeToolTip": "DBapplication\\Owner_Companies.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Competition_Client.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Competition_Client.cs",
+              "RelativeDocumentMoniker": "DBapplication\\Competition_Client.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Competition_Client.cs",
+              "RelativeToolTip": "DBapplication\\Competition_Client.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:07:21.112Z"
+              "WhenOpened": "2024-12-27T23:08:27.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Owner_Welcome.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Welcome.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Owner_Welcome.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Welcome.cs [Design]",
-              "RelativeToolTip": "DBapplication\\Owner_Welcome.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Competition_Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Competition_Client.cs",
+              "RelativeDocumentMoniker": "DBapplication\\Competition_Client.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Competition_Client.cs [Design]",
+              "RelativeToolTip": "DBapplication\\Competition_Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:37:16.769Z"
+              "WhenOpened": "2024-12-27T22:49:21.493Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Owner_Welcome.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Welcome.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Owner_Welcome.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Owner_Welcome.cs",
-              "RelativeToolTip": "DBapplication\\Owner_Welcome.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEYAAAA3AAAAAAAAAA==",
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Controller.cs",
+              "RelativeDocumentMoniker": "DBapplication\\Controller.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Controller.cs",
+              "RelativeToolTip": "DBapplication\\Controller.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAiwFwBAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:38:09.664Z"
+              "WhenOpened": "2024-12-27T22:25:08.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client_Welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Client_Welcome.cs",
+              "RelativeDocumentMoniker": "DBapplication\\Client_Welcome.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\Client_Welcome.cs [Design]",
+              "RelativeToolTip": "DBapplication\\Client_Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:01:16.021Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateCompany.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\CreateCompany.cs",
-              "RelativeDocumentMoniker": "DBapplication\\CreateCompany.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\CreateCompany.cs [Design]",
-              "RelativeToolTip": "DBapplication\\CreateCompany.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:37:55.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "DBManager.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\DBManager.cs",
               "RelativeDocumentMoniker": "DBapplication\\DBManager.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\DBManager.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\Paddlers\\DBapplication\\DBapplication\\DBManager.cs",
               "RelativeToolTip": "DBapplication\\DBManager.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAwAAACUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:52:22.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Court_Management.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Court_Management.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Court_Management.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Court_Management.cs [Design]",
-              "RelativeToolTip": "DBapplication\\Court_Management.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:37:56.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Court_Management.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Court_Management.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Court_Management.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Court_Management.cs",
-              "RelativeToolTip": "DBapplication\\Court_Management.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:57:18.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Login.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Login.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Login.cs [Design]",
-              "RelativeToolTip": "DBapplication\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:43:36.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Branch_Management.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Branch_Management.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Branch_Management.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Branch_Management.cs [Design]",
-              "RelativeToolTip": "DBapplication\\Branch_Management.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:37:58.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateCompany.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\CreateCompany.cs",
-              "RelativeDocumentMoniker": "DBapplication\\CreateCompany.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\CreateCompany.cs",
-              "RelativeToolTip": "DBapplication\\CreateCompany.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wCEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:52:26.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Program.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Program.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Program.cs",
-              "RelativeToolTip": "DBapplication\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:43:00.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Branch_Management.cs",
-              "DocumentMoniker": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Branch_Management.cs",
-              "RelativeDocumentMoniker": "DBapplication\\Branch_Management.cs",
-              "ToolTip": "C:\\Users\\youse\\Desktop\\Project\\Code\\DBapplication\\DBapplication\\Branch_Management.cs",
-              "RelativeToolTip": "DBapplication\\Branch_Management.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAuwFkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:38:18.794Z"
+              "WhenOpened": "2024-12-27T19:18:02.347Z",
+              "EditorCaption": ""
             }
           ]
         }

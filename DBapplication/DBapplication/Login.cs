@@ -17,6 +17,7 @@ namespace DBapplication
         {
             InitializeComponent();
             controller = new Controller();
+            controller.deleteSlots();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -45,6 +46,8 @@ namespace DBapplication
                 else if ( type == "manager")
                 {
                     //Manager Form
+                    Manager_Welcome manager_Welcome = new Manager_Welcome(username);
+                    manager_Welcome.Show();
 
                 }
                 else if (type == "employee")
@@ -53,7 +56,8 @@ namespace DBapplication
                 }
                 else if (type == "client")
                 {
-                    //Client Form
+                    Client_Welcome client_Welcome = new Client_Welcome(username);
+                    client_Welcome.Show();
                 }
 
             }
@@ -61,6 +65,12 @@ namespace DBapplication
             {
                 MessageBox.Show("Invalid username or password");
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            SignUp signUp = new SignUp();
+            signUp.Show();
         }
     }
 }

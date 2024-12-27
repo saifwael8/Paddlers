@@ -35,5 +35,11 @@ namespace DBapplication
             ProfileManagment profileManagment = new ProfileManagment(username);
             profileManagment.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ServiceManagment serviceManagment = new ServiceManagment(username, company_id);
+            serviceManagment.Show();
+        }
     }
 }

@@ -84,7 +84,6 @@ C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\bin\Debug\DBapp
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.AssemblyReference.cache
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Branch_Management.resources
-C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Court_Management.resources
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Manager_Management.resources
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Owner_Welcome.resources
@@ -95,3 +94,13 @@ C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\D
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Admin_Welcome.resources
 C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ProfileManagment.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Client_Welcome.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Manager_Welcome.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Reservation.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Court_Managment.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EmployeeManagment.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ServiceManagment.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.CompetitionManagment.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Reservation_Client.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SignUp.resources
+C:\Users\youse\Source\Repos\Paddlers\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Competition_Client.resources
