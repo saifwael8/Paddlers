@@ -87,7 +87,6 @@
             this.button3.TabIndex = 44;
             this.button3.Text = "Delete Court";
             this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label10
             // 
@@ -112,7 +111,6 @@
             this.button2.TabIndex = 42;
             this.button2.Text = "Update Court";
             this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -124,7 +122,6 @@
             this.button1.TabIndex = 41;
             this.button1.Text = "Add a new Court";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // comboBox1
             // 
@@ -286,7 +283,6 @@
             this.Controls.Add(this.label1);
             this.Name = "Court_Management";
             this.Text = "Court_Management";
-            this.Load += new System.EventHandler(this.Court_Management_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

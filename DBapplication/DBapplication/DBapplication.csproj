@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin_Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Welcome.Designer.cs">
+      <DependentUpon>Admin_Welcome.cs</DependentUpon>
+    </Compile>
     <Compile Include="Branch_Management.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,12 +67,6 @@
     </Compile>
     <Compile Include="Court_Management.Designer.cs">
       <DependentUpon>Court_Management.cs</DependentUpon>
-    </Compile>
-    <Compile Include="CreateCompany.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="CreateCompany.Designer.cs">
-      <DependentUpon>CreateCompany.cs</DependentUpon>
     </Compile>
     <Compile Include="DBManager.cs" />
     <Compile Include="Login.cs">
@@ -81,11 +81,11 @@
     <Compile Include="Manager_Management.Designer.cs">
       <DependentUpon>Manager_Management.cs</DependentUpon>
     </Compile>
-    <Compile Include="Owner_Companies.cs">
+    <Compile Include="Manager_Welcome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Owner_Companies.Designer.cs">
-      <DependentUpon>Owner_Companies.cs</DependentUpon>
+    <Compile Include="Manager_Welcome.Designer.cs">
+      <DependentUpon>Manager_Welcome.cs</DependentUpon>
     </Compile>
     <Compile Include="Owner_Welcome.cs">
       <SubType>Form</SubType>
@@ -93,16 +93,22 @@
     <Compile Include="Owner_Welcome.Designer.cs">
       <DependentUpon>Owner_Welcome.cs</DependentUpon>
     </Compile>
+    <Compile Include="ProfileManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileManagment.Designer.cs">
+      <DependentUpon>ProfileManagment.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin_Welcome.resx">
+      <DependentUpon>Admin_Welcome.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Branch_Management.resx">
       <DependentUpon>Branch_Management.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Court_Management.resx">
       <DependentUpon>Court_Management.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="CreateCompany.resx">
-      <DependentUpon>CreateCompany.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -110,11 +116,14 @@
     <EmbeddedResource Include="Manager_Management.resx">
       <DependentUpon>Manager_Management.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Owner_Companies.resx">
-      <DependentUpon>Owner_Companies.cs</DependentUpon>
+    <EmbeddedResource Include="Manager_Welcome.resx">
+      <DependentUpon>Manager_Welcome.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Owner_Welcome.resx">
       <DependentUpon>Owner_Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileManagment.resx">
+      <DependentUpon>ProfileManagment.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

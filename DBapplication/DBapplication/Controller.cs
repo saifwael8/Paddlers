@@ -23,17 +23,17 @@ namespace DBapplication
 
             string query = "INSERT INTO Company (company_name) " +
                             "Values ('" + name + "');";
-            
+
             return dbMan.ExecuteNonQuery(query);
 
         }
         public DataTable SelectAllCompanies()
         {
-            
+
             string query = "SELECT DISTINCT company_name FROM Company ";
             return dbMan.ExecuteReader(query);
         }
-        public int UpdateCompany(string oldname,string newname)
+        public int UpdateCompany(string oldname, string newname)
         {
             string query = "UPDATE Company SET company_name='" + newname + "' WHERE company_name='" + oldname + "';  ";
             return dbMan.ExecuteNonQuery(query);
@@ -46,165 +46,190 @@ namespace DBapplication
         }
         /////////////////////////////////////////////////////////////////////////////////////////
 
-        
-        public int? getcompanyid(string comp_name)
+
+        public int getCompanyId(string comp_name)
         {
-            string query = "SELECT sum(company_id) FROM Company WHERE company_name='" + comp_name + "';";
-            DataTable result = dbMan.ExecuteReader(query);
+            string query = "SELECT company_id FROM Company WHERE company_name='" + comp_name + "';";
+            int result = (int) dbMan.ExecuteScalar(query);
 
-            if (result != null && result.Rows.Count > 0) // Ensure the DataTable has data
-            {
-                object value = result.Rows[0][0]; // Access the first row, first column
-                if (value != DBNull.Value) // Check if the value is not NULL
-                {
-                    int sum = Convert.ToInt32(value); // Convert to integer
-                    return sum;
-                }
-            }
-
-
-            // Check if the result is valid
-            if (result != null && int.TryParse(result.ToString(), out int companyId))
-            {
-                return companyId; // Return the valid company ID
-            }
-
-            return null; // Return null if no result or invalid result
+            return result;
         }
-        
-        public int? getbranchid(string branch_name, string company_name)
-        {
-            int? cid = getcompanyid(company_name);
-            string query = "SELECT branch_id  FROM Branch  WHERE branch_name='" + branch_name + "' and company_id='" + cid + "';";
-            object res =dbMan.ExecuteScalar(query);
-            if (cid.HasValue)
-            {
-                if (res != null && int.TryParse(res.ToString(), out int branchId))
-                {
-                    return branchId; // Return the valid company ID
-                }
 
-                return null;
-            }
-            return 0;
+        public int getCompanyIdUsername(string username)
+        {
+            string query = "SELECT company_id FROM Users WHERE username='" + username + "';";
+            return (int)dbMan.ExecuteScalar(query);
         }
-        public int InsertBranch(string branch_name, string company_name, string location, string city)
+
+        public int InsertBranch(string branch_name, int company_id, string location, string city)
         {
-            string r = company_name;
-            int? cid = getcompanyid(r);     
-            if (cid.HasValue)
-            {  
+            string query = "INSERT INTO Branch (branch_name, company_id, location, city) " +
+                        "Values ('" + branch_name + "', '" + company_id + "', '" + location + "', '" + city + "');";
 
-                string query = "INSERT INTO Branch (branch_name,company_id, location, city) " +
-                            "Values ('" + branch_name + "', '" + cid + "', '" + location + "', '" + city + "');";
-
-                 return dbMan.ExecuteNonQuery(query);
-             }
-            return 0;
-
+            return dbMan.ExecuteNonQuery(query);
         }
-        public DataTable SelectAllBranches()
+        public DataTable SelectAllBranches(int company_id)
         {
-
-            string query = "SELECT Distinct branch_name FROM Branch ";
+            string query = "SELECT * FROM Branch WHERE company_id=" + company_id + ";";
             return dbMan.ExecuteReader(query);
         }
-        public DataTable SelectAllBrancheswithdata()
+        public int DeleteBranch(string name, int company_id)
         {
-
-            string query = "SELECT Distinct Branch.branch_name, Company.company_name, Branch.location, Branch.city FROM Branch, Company WHERE Company.company_id = Branch.company_id ";
-            return dbMan.ExecuteReader(query);
-        }
-        public int UpdateBranch(string old_name, string new_name, string company_name, string location, string city)
-        {
-                int? cid = getcompanyid(company_name);
-                int? bid = getbranchid(old_name, company_name);
-            if (cid.HasValue && bid!=0)
-            {
-
-                string query = "UPDATE Branch SET  branch_name='" + new_name + "', company_id='" + cid + "' , location='" + location + "', city ='" + city + "'  WHERE branch_id= '" + bid + "';" ;
-
-                return dbMan.ExecuteNonQuery(query);
-            }
-            return 0;
-
-        }
-        public int DeleteBranch(string name,string company_name)
-        {
-            int? cid = getcompanyid(company_name);
-            int? bid = getbranchid(name, company_name);
-            if (cid.HasValue && bid!=0)
-            {
-                string query = "DELETE FROM Branch WHERE branch_name='" + name + "' and company_id='" + cid + "';";
-                return dbMan.ExecuteNonQuery(query);
-            }
-            return 0;
+            string query = "DELETE FROM Branch WHERE branch_name='" + name + "' and company_id=" + company_id + ";";
+            return dbMan.ExecuteNonQuery(query);
         }
         /////////////////////////////////////////////////////////////////////////////////////////
-        public int INSERTCOURT(string court_name, string type,string branch_name,string company_name)
-        {
-            int? cid = getcompanyid(company_name);
-            int? bid = getbranchid(branch_name, company_name);
-            if (cid.HasValue && bid != 0)
-            {
-                string query = "INSERT INTO Court (court_name,type, branch_id) " +
-                            "Values ('" + court_name + "', '" + type + "', '" + bid + "');";
-                return dbMan.ExecuteNonQuery(query);
-            }
-            return 0;
-        }
         public DataTable SelectAllCourts()
         {
-              
+
 
             string query = "SELECT Distinct Court.court_name, Court.type,Branch.branch_name  FROM Court, Branch Where Court.branch_id = Branch.branch_id";
             return dbMan.ExecuteReader(query);
         }
-        
+
 
         public int UpdateCourt(string old_name, string new_name, string new_type)
         {
-            
-            
 
-                string query = "UPDATE Court SET  court_name='" + new_name + "', type ='" + new_type + "'  WHERE court_name= '" + old_name + "';";
 
-                return dbMan.ExecuteNonQuery(query);
+
+            string query = "UPDATE Court SET  court_name='" + new_name + "', type ='" + new_type + "'  WHERE court_name= '" + old_name + "';";
+
+            return dbMan.ExecuteNonQuery(query);
 
 
         }
         public int DeleteCourt(string name, string type)
-        { 
-            
-                string query = "DELETE FROM Court WHERE court_name='" + name + "' and type='" + type + "';";
-                return dbMan.ExecuteNonQuery(query);
-            
+        {
+
+            string query = "DELETE FROM Court WHERE court_name='" + name + "' and type='" + type + "';";
+            return dbMan.ExecuteNonQuery(query);
+
         }
         ////////////////////////////////////////////////////////////////////////////////////////
 
 
-        //public int InsertManager(string usrname,string pass,string fname,string lname, string address,string pnumber, string comp_name, string branch_name, string bio )
-        //{
-        //  int cid= getcompanyid(comp_name);
-        //    int bid= getbranchid(branch_name,comp_name);
-
-        //    string query = "INSERT INTO Users ( username, password, first_name, last_name, address, phone_number, company_id, type, branch_id, bio) " +
-        //                    "Values ('" + usrname + "', '" + pass + "', '" + fname + "', '" + lname +"', '" + address + "', '" + pnumber + "', '" + cid + "','manager', '" + bid + "', '" + bio + "' );";
-
-        //    return dbMan.ExecuteNonQuery(query);
-
-        //}
 
 
 
 
+        //LOGIN PAGE:
+
+        public string getUserType(string username)
+        {
+            string query = "select type from users where username = '" + username + "';";
+            return (string)dbMan.ExecuteScalar(query);
+        }
+
+        public string getPassword(string username)
+        {
+            string query = "select password from users where username = '" + username + "';";
+            return (string)dbMan.ExecuteScalar(query);
+        }
+
+        public int insertCity(string city)
+        {
+            string query = "insert into cities values ('" + city + "'); ";
+            return dbMan.ExecuteNonQuery(query);
+        }
+
+        public DataTable getCities()
+        {
+            string query = "select * from cities;";
+            return dbMan.ExecuteReader(query);
+        }
+
+        public int insertUser(string username, string password, string firstName, string lastName, string Address, string PhoneNumber, string companyName, string type)
+        {
+            int companyId = getCompanyId(companyName);
+            if (companyId != 0)
+            {
+                string query = "INSERT INTO Users (username, password, first_name, last_name, address, phone_number, company_id, type, bio) " +
+                               "VALUES ('" + username + "', '" + password + "', '" + firstName + "', '" + lastName + "', '" + Address + "', '" + PhoneNumber + "', '" + companyId + "','"  + type + "','Hi');";
+                return dbMan.ExecuteNonQuery(query);
+            }
+            return 0;
+        }
 
 
+        public int insertCompany(string company)
+        {
+            string query = "insert into company(company_name) values ('" + company + "'); ";
+            return dbMan.ExecuteNonQuery(query);
+        }
+
+        public int deleteCompany(string company)
+        {
+            string query = "delete from company where company_name = '" + company + "'; ";
+            return dbMan.ExecuteNonQuery(query);
+        }
 
 
+        public string getFirstName(string username)
+        {
+            string query = "select first_name from users where username = '" + username + "'; ";
+            return (string)dbMan.ExecuteScalar(query);
+        }
+
+        public string getLastName(string username)
+        {
+            string query = "select last_name from users where username = '" + username + "'; ";
+            return (string)dbMan.ExecuteScalar(query);
+        }
+
+        public string getAddress(string username)
+        {
+            string query = "select address from users where username = '" + username + "'; ";
+            return (string)dbMan.ExecuteScalar(query);
+        }
+        
+        public string getPhoneNumber(string username)
+        {
+            string query = "select phone_number from users where username = '" + username + "'; ";
+            return (string)dbMan.ExecuteScalar(query);
+        }
+
+        public string getCompanyName(string username)
+        {
+            string query = "select company_name from company where company_id = (select company_id from users where username = '" + username + "'); ";
+            object result = dbMan.ExecuteScalar(query);
+
+            // Debugging: Check the type of the result
+
+            return (string)result;
+        }
+
+        public int updateProfile(string  username, string firstName, string lastName, string address, string phoneNumber)
+        {
+            string query = "update users set first_name = '" + firstName + "', last_name = '" + lastName + "', address = '" + address + "', phone_number = '" + phoneNumber + "' where username = '" + username + "'; ";
+            return dbMan.ExecuteNonQuery(query);
+        }
+
+        public int updatePassword(string username, string password)
+        {
+            string query = "update users set password = '" + password + "' where username = '" + username + "'; ";
+            return dbMan.ExecuteNonQuery(query);
+        }
+
+        //TODO: SET UNIQUE (COMPANY_ID, BRANCH_NAME) IN DB
+        public int updateManager(string username, string branch_name, int company_id)
+        {
+            string query = "update users set branch_id = (select branch_id from branch where branch_name = '" + branch_name + "' AND company_id = " + company_id + ") where username = '" + username + "'; ";
+            return dbMan.ExecuteNonQuery(query);
+        }
+
+        public int deleteUser(string username)
+        {
+            string query = "delete from users where username = '" + username + "'; ";
+            return dbMan.ExecuteNonQuery(query);
+        }
 
 
-
+        public DataTable getManagers(int company_id)
+        {
+            string query = "select * from users where type = 'manager' and company_id = " + company_id + ";";
+            return dbMan.ExecuteReader(query);
+        }
 
 
         public void TerminateConnection()
@@ -212,6 +237,5 @@ namespace DBapplication
             dbMan.CloseConnection();
         }
 
-       
     }
 }
